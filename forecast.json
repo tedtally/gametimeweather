@@ -1,0 +1,187 @@
+{
+    "Headline":
+    {
+        "EffectiveDate": "2022-09-04T14:00:00-04:00",
+        "EffectiveEpochDate": 1662314400,
+        "Severity": 5,
+        "Text": "Thunderstorms Sunday afternoon",
+        "Category": "thunderstorm",
+        "EndDate": "2022-09-04T20:00:00-04:00",
+        "EndEpochDate": 1662336000,
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?lang=en-us"
+    },
+    "DailyForecasts": [
+    {
+        "Date": "2022-08-31T07:00:00-04:00",
+        "EpochDate": 1661943600,
+        "Temperature":
+        {
+            "Minimum":
+            {
+                "Value": 69.0,
+                "Unit": "F",
+                "UnitType": 18
+            },
+            "Maximum":
+            {
+                "Value": 84.0,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "Day":
+        {
+            "Icon": 2,
+            "IconPhrase": "Mostly sunny",
+            "HasPrecipitation": false
+        },
+        "Night":
+        {
+            "Icon": 33,
+            "IconPhrase": "Clear",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=1&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=1&lang=en-us"
+    },
+    {
+        "Date": "2022-09-01T07:00:00-04:00",
+        "EpochDate": 1662030000,
+        "Temperature":
+        {
+            "Minimum":
+            {
+                "Value": 71.0,
+                "Unit": "F",
+                "UnitType": 18
+            },
+            "Maximum":
+            {
+                "Value": 88.0,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "Day":
+        {
+            "Icon": 1,
+            "IconPhrase": "Sunny",
+            "HasPrecipitation": false
+        },
+        "Night":
+        {
+            "Icon": 33,
+            "IconPhrase": "Clear",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=2&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=2&lang=en-us"
+    },
+    {
+        "Date": "2022-09-02T07:00:00-04:00",
+        "EpochDate": 1662116400,
+        "Temperature":
+        {
+            "Minimum":
+            {
+                "Value": 72.0,
+                "Unit": "F",
+                "UnitType": 18
+            },
+            "Maximum":
+            {
+                "Value": 84.0,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "Day":
+        {
+            "Icon": 1,
+            "IconPhrase": "Sunny",
+            "HasPrecipitation": false
+        },
+        "Night":
+        {
+            "Icon": 35,
+            "IconPhrase": "Partly cloudy",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=3&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=3&lang=en-us"
+    },
+    {
+        "Date": "2022-09-03T07:00:00-04:00",
+        "EpochDate": 1662202800,
+        "Temperature":
+        {
+            "Minimum":
+            {
+                "Value": 72.0,
+                "Unit": "F",
+                "UnitType": 18
+            },
+            "Maximum":
+            {
+                "Value": 86.0,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "Day":
+        {
+            "Icon": 4,
+            "IconPhrase": "Intermittent clouds",
+            "HasPrecipitation": false
+        },
+        "Night":
+        {
+            "Icon": 36,
+            "IconPhrase": "Intermittent clouds",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=4&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=4&lang=en-us"
+    },
+    {
+        "Date": "2022-09-04T07:00:00-04:00",
+        "EpochDate": 1662289200,
+        "Temperature":
+        {
+            "Minimum":
+            {
+                "Value": 73.0,
+                "Unit": "F",
+                "UnitType": 18
+            },
+            "Maximum":
+            {
+                "Value": 88.0,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "Day":
+        {
+            "Icon": 17,
+            "IconPhrase": "Partly sunny w/ t-storms",
+            "HasPrecipitation": true,
+            "PrecipitationType": "Rain",
+            "PrecipitationIntensity": "Moderate"
+        },
+        "Night":
+        {
+            "Icon": 35,
+            "IconPhrase": "Partly cloudy",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=5&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/annapolis-md/21401/daily-weather-forecast/329302?day=5&lang=en-us"
+    }]
+}
