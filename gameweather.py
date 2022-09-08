@@ -20,7 +20,7 @@ else:
 	querystring = {"league":"NCAAF","date":"2022-09-10"}
 
 	headers = {
-		"X-RapidAPI-Key": "9a8920ea2cmsh411e3c80ba9253dp1d7d7cjsn86dc326be333",
+		"X-RapidAPI-Key": os.getenv('X-RapidAPI-Key'),
 		"X-RapidAPI-Host": "sportspage-feeds.p.rapidapi.com"
 	}
 
