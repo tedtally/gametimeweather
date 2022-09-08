@@ -1,0 +1,5131 @@
+{
+    "status": 200,
+    "time": "2022-09-08T21:17:08.769Z",
+    "games": 80,
+    "skip": 0,
+    "results": [
+        {
+            "summary": "UTSA @ Army",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "UTSA",
+                    "location": "UTSA",
+                    "mascot": "Roadrunners",
+                    "abbreviation": "UTSA",
+                    "conference": "Conference USA",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Army",
+                    "location": "Army",
+                    "mascot": "Black Knights",
+                    "abbreviation": "ARMY",
+                    "conference": "Independent"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.260Z",
+            "gameId": 284914,
+            "venue": {
+                "name": "Michie Stadium",
+                "neutralSite": false,
+                "city": "West Point",
+                "state": "NY"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -2.5,
+                            "home": 2.5,
+                            "awayOdds": -115,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -2.5,
+                            "home": 2.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -130,
+                            "homeOdds": 110
+                        },
+                        "current": {
+                            "awayOdds": -138,
+                            "homeOdds": 118
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 54,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 54.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.426Z",
+                    "lastUpdated": "2022-09-08T21:12:41.692Z"
+                }
+            ]
+        },
+        {
+            "summary": "Southern Mississippi @ Miami (FL)",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Southern Mississippi",
+                    "location": "Southern Mississippi",
+                    "mascot": "Golden Eagles",
+                    "abbreviation": "USM",
+                    "conference": "Conference USA",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Miami (FL)",
+                    "location": "Miami (FL)",
+                    "mascot": "Hurricanes",
+                    "abbreviation": "MIA",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.525Z",
+            "gameId": 284915,
+            "venue": {
+                "name": "Hard Rock Stadium",
+                "neutralSite": false,
+                "city": "Miami Gardens",
+                "state": "FL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 28,
+                            "home": -28,
+                            "awayOdds": -115,
+                            "homeOdds": -105
+                        },
+                        "current": {
+                            "away": 25,
+                            "home": -25,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 1750,
+                            "homeOdds": -3500
+                        },
+                        "current": {
+                            "awayOdds": 1775,
+                            "homeOdds": -3525
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 51,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.288Z",
+                    "lastUpdated": "2022-09-08T21:12:41.487Z"
+                }
+            ]
+        },
+        {
+            "summary": "North Carolina @ Georgia State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "North Carolina",
+                    "location": "North Carolina",
+                    "mascot": "Tar Heels",
+                    "abbreviation": "UNC",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                },
+                "home": {
+                    "team": "Georgia State",
+                    "location": "Georgia State",
+                    "mascot": "Panthers",
+                    "abbreviation": "GAST",
+                    "conference": "Sun Belt",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.296Z",
+            "gameId": 284916,
+            "venue": {
+                "name": "Georgia State Stadium",
+                "neutralSite": false,
+                "city": "Atlanta",
+                "state": "GA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -9,
+                            "home": 9,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -7.5,
+                            "home": 7.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -280,
+                            "homeOdds": 240
+                        },
+                        "current": {
+                            "awayOdds": -279,
+                            "homeOdds": 235
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 68,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 64.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.326Z",
+                    "lastUpdated": "2022-09-08T21:12:41.546Z"
+                }
+            ]
+        },
+        {
+            "summary": "Ohio @ Penn State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Ohio",
+                    "location": "Ohio",
+                    "mascot": "Bobcats",
+                    "abbreviation": "OHIO",
+                    "conference": "MAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Penn State",
+                    "location": "Penn State",
+                    "mascot": "Nittany Lions",
+                    "abbreviation": "PSU",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.332Z",
+            "gameId": 284917,
+            "venue": {
+                "name": "Beaver Stadium",
+                "neutralSite": false,
+                "city": "University Park",
+                "state": "PA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 27.5,
+                            "home": -27.5,
+                            "awayOdds": 105,
+                            "homeOdds": -125
+                        },
+                        "current": {
+                            "away": 25.5,
+                            "home": -25.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 1400,
+                            "homeOdds": -2500
+                        },
+                        "current": {
+                            "awayOdds": 1350,
+                            "homeOdds": -2875
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 53.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 54.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.393Z",
+                    "lastUpdated": "2022-09-08T21:12:41.640Z"
+                }
+            ]
+        },
+        {
+            "summary": "Arkansas State @ Ohio State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Arkansas State",
+                    "location": "Arkansas State",
+                    "mascot": "Red Wolves",
+                    "abbreviation": "ARST",
+                    "conference": "Sun Belt",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Ohio State",
+                    "location": "Ohio State",
+                    "mascot": "Buckeyes",
+                    "abbreviation": "OSU",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.566Z",
+            "gameId": 284918,
+            "venue": {
+                "name": "Ohio Stadium",
+                "neutralSite": false,
+                "city": "Columbus",
+                "state": "OH"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 44.5,
+                            "home": -44.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 44.5,
+                            "home": -44.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 30000,
+                            "homeOdds": -24464
+                        },
+                        "current": {
+                            "awayOdds": 45000,
+                            "homeOdds": -3928
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 68.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 68.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.356Z",
+                    "lastUpdated": "2022-09-08T21:12:41.598Z"
+                }
+            ]
+        },
+        {
+            "summary": "Duke @ Northwestern",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Duke",
+                    "location": "Duke",
+                    "mascot": "Blue Devils",
+                    "abbreviation": "DUKE",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                },
+                "home": {
+                    "team": "Northwestern",
+                    "location": "Northwestern",
+                    "mascot": "Wildcats",
+                    "abbreviation": "NW",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.371Z",
+            "gameId": 284919,
+            "venue": {
+                "name": "Ryan Field",
+                "neutralSite": false,
+                "city": "Evanston",
+                "state": "IL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 8.5,
+                            "home": -8.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 10,
+                            "home": -10,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 315,
+                            "homeOdds": -380
+                        },
+                        "current": {
+                            "awayOdds": 283,
+                            "homeOdds": -355
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 57,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.258Z",
+                    "lastUpdated": "2022-09-08T21:12:41.436Z"
+                }
+            ]
+        },
+        {
+            "summary": "Western Illinois @ Minnesota",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Western Illinois",
+                    "location": "Western Illinois",
+                    "mascot": "Leathernecks",
+                    "abbreviation": "WIU",
+                    "conference": "Missouri Valley"
+                },
+                "home": {
+                    "team": "Minnesota",
+                    "location": "Minnesota",
+                    "mascot": "Golden Gophers",
+                    "abbreviation": "MINN",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.408Z",
+            "gameId": 284920,
+            "venue": {
+                "name": "Huntington Bank Stadium",
+                "neutralSite": false,
+                "city": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "summary": "Wake Forest @ Vanderbilt",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Wake Forest",
+                    "location": "Wake Forest",
+                    "mascot": "Demon Deacons",
+                    "abbreviation": "WAKE",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                },
+                "home": {
+                    "team": "Vanderbilt",
+                    "location": "Vanderbilt",
+                    "mascot": "Commodores",
+                    "abbreviation": "VAN",
+                    "conference": "SEC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.462Z",
+            "gameId": 284921,
+            "venue": {
+                "name": "Vanderbilt Stadium",
+                "neutralSite": false,
+                "city": "Nashville",
+                "state": "TN"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -6.5,
+                            "home": 6.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -13,
+                            "home": 13,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -250,
+                            "homeOdds": 210
+                        },
+                        "current": {
+                            "awayOdds": -455,
+                            "homeOdds": 355
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 62,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 65.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.191Z",
+                    "lastUpdated": "2022-09-08T21:12:41.333Z"
+                }
+            ]
+        },
+        {
+            "summary": "Missouri @ Kansas State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Missouri",
+                    "location": "Missouri",
+                    "mascot": "Tigers",
+                    "abbreviation": "MIZZ",
+                    "conference": "SEC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Kansas State",
+                    "location": "Kansas State",
+                    "mascot": "Wildcats",
+                    "abbreviation": "KSU",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.434Z",
+            "gameId": 284922,
+            "venue": {
+                "name": "Bill Snyder Family Stadium",
+                "neutralSite": false,
+                "city": "Manhattan",
+                "state": "KS"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 8.5,
+                            "home": -8.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 7.5,
+                            "home": -7.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 265,
+                            "homeOdds": -325
+                        },
+                        "current": {
+                            "awayOdds": 251,
+                            "homeOdds": -302
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 55,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 56.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.107Z",
+                    "lastUpdated": "2022-09-08T21:12:41.276Z"
+                }
+            ]
+        },
+        {
+            "summary": "South Carolina @ Arkansas",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "South Carolina",
+                    "location": "South Carolina",
+                    "mascot": "Gamecocks",
+                    "abbreviation": "SC",
+                    "conference": "SEC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Arkansas",
+                    "location": "Arkansas",
+                    "mascot": "Razorbacks",
+                    "abbreviation": "ARK",
+                    "conference": "SEC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.492Z",
+            "gameId": 284923,
+            "venue": {
+                "name": "Razorback Stadium",
+                "neutralSite": false,
+                "city": "Fayetteville",
+                "state": "AR"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 8.5,
+                            "home": -8.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 8,
+                            "home": -8,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 255,
+                            "homeOdds": -310
+                        },
+                        "current": {
+                            "awayOdds": 258,
+                            "homeOdds": -312
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 52,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 53,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.043Z",
+                    "lastUpdated": "2022-09-08T21:12:41.228Z"
+                }
+            ]
+        },
+        {
+            "summary": "Alabama @ Texas",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Alabama",
+                    "location": "Alabama",
+                    "mascot": "Crimson Tide",
+                    "abbreviation": "ALA",
+                    "conference": "SEC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Texas",
+                    "location": "Texas",
+                    "mascot": "Longhorns",
+                    "abbreviation": "TEX",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.611Z",
+            "gameId": 284924,
+            "venue": {
+                "name": "Royal-Texas Memorial Stadium",
+                "neutralSite": false,
+                "city": "Austin",
+                "state": "TX"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -18.5,
+                            "home": 18.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -20,
+                            "home": 20,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -1375,
+                            "homeOdds": 900
+                        },
+                        "current": {
+                            "awayOdds": -1450,
+                            "homeOdds": 863
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 61.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 65.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:42:46.225Z",
+                    "lastUpdated": "2022-09-08T21:12:41.390Z"
+                }
+            ]
+        },
+        {
+            "summary": "Charleston Southern @ NC State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T16:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Charleston Southern",
+                    "location": "Charleston Southern",
+                    "mascot": "Buccaneers",
+                    "abbreviation": "CHSO",
+                    "conference": "Big South"
+                },
+                "home": {
+                    "team": "NC State",
+                    "location": "NC State",
+                    "mascot": "Wolfpack",
+                    "abbreviation": "NCST",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.655Z",
+            "gameId": 284925,
+            "venue": {
+                "name": "Carter-Finley Stadium",
+                "neutralSite": false,
+                "city": "Raleigh",
+                "state": "NC"
+            }
+        },
+        {
+            "summary": "South Alabama @ Central Michigan",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T17:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "South Alabama",
+                    "location": "South Alabama",
+                    "mascot": "Jaguars",
+                    "abbreviation": "SALA",
+                    "conference": "Sun Belt",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Central Michigan",
+                    "location": "Central Michigan",
+                    "mascot": "Chippewas",
+                    "abbreviation": "CMU",
+                    "conference": "MAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.681Z",
+            "gameId": 284926,
+            "venue": {
+                "name": "Kelly/Shorts Stadium",
+                "neutralSite": false,
+                "city": "Mount Pleasant",
+                "state": "MI"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": 5,
+                            "home": -5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 170,
+                            "homeOdds": -200
+                        },
+                        "current": {
+                            "awayOdds": 170,
+                            "homeOdds": -199
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 59.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 59,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:41.887Z",
+                    "lastUpdated": "2022-09-08T21:12:41.734Z"
+                }
+            ]
+        },
+        {
+            "summary": "Southern Utah @ Utah",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T17:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Southern Utah",
+                    "location": "Southern Utah",
+                    "mascot": "Thunderbirds",
+                    "abbreviation": "SUU",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Utah",
+                    "location": "Utah",
+                    "mascot": "Utes",
+                    "abbreviation": "UTAH",
+                    "conference": "Pac 12",
+                    "division": "South"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.702Z",
+            "gameId": 284927,
+            "venue": {
+                "name": "Rice-Eccles Stadium",
+                "neutralSite": false,
+                "city": "Salt Lake City",
+                "state": "UT"
+            }
+        },
+        {
+            "summary": "Lafayette @ Temple",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T18:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Lafayette",
+                    "location": "Lafayette",
+                    "mascot": "Leopards",
+                    "abbreviation": "LAF",
+                    "conference": "Patriot League"
+                },
+                "home": {
+                    "team": "Temple",
+                    "location": "Temple",
+                    "mascot": "Owls",
+                    "abbreviation": "TEM",
+                    "conference": "AAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.763Z",
+            "gameId": 284910,
+            "venue": {
+                "name": "Lincoln Financial Field",
+                "neutralSite": false,
+                "city": "Philadelphia",
+                "state": "PA"
+            }
+        },
+        {
+            "summary": "Western Michigan @ Ball State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-10T18:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Western Michigan",
+                    "location": "Western Michigan",
+                    "mascot": "Broncos",
+                    "abbreviation": "WMU",
+                    "conference": "MAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Ball State",
+                    "location": "Ball State",
+                    "mascot": "Cardinals",
+                    "abbreviation": "BALL",
+                    "conference": "MAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.735Z",
+            "gameId": 284928,
+            "venue": {
+                "name": "Scheumann Stadium",
+                "neutralSite": false,
+                "city": "Muncie",
+                "state": "IN"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -6.5,
+                            "home": 6.5,
+                            "awayOdds": -115,
+                            "homeOdds": -105
+                        },
+                        "current": {
+                            "away": -6.5,
+                            "home": 6.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -250,
+                            "homeOdds": 210
+                        },
+                        "current": {
+                            "awayOdds": -240,
+                            "homeOdds": 200
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 55,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 52.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:41.934Z",
+                    "lastUpdated": "2022-09-08T21:12:41.780Z"
+                }
+            ]
+        },
+        {
+            "summary": "Marshall @ Notre Dame",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T18:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Marshall",
+                    "location": "Marshall",
+                    "mascot": "Thundering Herd",
+                    "abbreviation": "MRSH",
+                    "conference": "Conference USA",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Notre Dame",
+                    "location": "Notre Dame",
+                    "mascot": "Fighting Irish",
+                    "abbreviation": "ND",
+                    "conference": "Independent"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.788Z",
+            "gameId": 284929,
+            "venue": {
+                "name": "Notre Dame Stadium",
+                "neutralSite": false,
+                "city": "Notre Dame",
+                "state": "IN"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 19,
+                            "home": -19,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 20.5,
+                            "home": -20.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 775,
+                            "homeOdds": -1200
+                        },
+                        "current": {
+                            "awayOdds": 882,
+                            "homeOdds": -1483
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 52,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 51,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:41.977Z",
+                    "lastUpdated": "2022-09-08T21:12:41.827Z"
+                }
+            ]
+        },
+        {
+            "summary": "Maryland @ Charlotte",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Maryland",
+                    "location": "Maryland",
+                    "mascot": "Terrapins",
+                    "abbreviation": "MD",
+                    "conference": "Big Ten",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Charlotte",
+                    "location": "Charlotte",
+                    "mascot": "49ers",
+                    "abbreviation": "CHAR",
+                    "conference": "Conference USA",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.819Z",
+            "gameId": 284930,
+            "venue": {
+                "name": "Jerry Richardson Stadium",
+                "neutralSite": false,
+                "city": "Charlotte",
+                "state": "NC"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -27,
+                            "home": 27,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -27,
+                            "home": 27,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -5000,
+                            "homeOdds": 2500
+                        },
+                        "current": {
+                            "awayOdds": -4500,
+                            "homeOdds": 2250
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 67,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 65.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:42.074Z",
+                    "lastUpdated": "2022-09-08T21:12:42.065Z"
+                }
+            ]
+        },
+        {
+            "summary": "Kennesaw State @ Cincinnati",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Kennesaw State",
+                    "location": "Kennesaw State",
+                    "mascot": "Owls",
+                    "abbreviation": "KENN",
+                    "conference": "Big South"
+                },
+                "home": {
+                    "team": "Cincinnati",
+                    "location": "Cincinnati",
+                    "mascot": "Bearcats",
+                    "abbreviation": "CIN",
+                    "conference": "AAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.850Z",
+            "gameId": 284931,
+            "venue": {
+                "name": "Nippert Stadium",
+                "neutralSite": false,
+                "city": "Cincinnati",
+                "state": "OH"
+            }
+        },
+        {
+            "summary": "Memphis @ Navy",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Memphis",
+                    "location": "Memphis",
+                    "mascot": "Tigers",
+                    "abbreviation": "MEM",
+                    "conference": "AAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Navy",
+                    "location": "Navy",
+                    "mascot": "Midshipmen",
+                    "abbreviation": "NAVY",
+                    "conference": "AAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.874Z",
+            "gameId": 284932,
+            "venue": {
+                "name": "Navy-Marine Corps Memorial Stadium",
+                "neutralSite": false,
+                "city": "Annapolis",
+                "state": "MD"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -7,
+                            "home": 7,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": -6,
+                            "home": 6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -245,
+                            "homeOdds": 205
+                        },
+                        "current": {
+                            "awayOdds": -232,
+                            "homeOdds": 195
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 49,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 50.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:42.118Z",
+                    "lastUpdated": "2022-09-08T21:12:42.107Z"
+                }
+            ]
+        },
+        {
+            "summary": "Furman @ Clemson",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Furman",
+                    "location": "Furman",
+                    "mascot": "Paladins",
+                    "abbreviation": "FUR",
+                    "conference": "Southern"
+                },
+                "home": {
+                    "team": "Clemson",
+                    "location": "Clemson",
+                    "mascot": "Tigers",
+                    "abbreviation": "CLEM",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.036Z",
+            "gameId": 284933,
+            "venue": {
+                "name": "Memorial Stadium (SC)",
+                "neutralSite": false,
+                "city": "Clemson",
+                "state": "SC"
+            }
+        },
+        {
+            "summary": "Washington State @ Wisconsin",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Washington State",
+                    "location": "Washington State",
+                    "mascot": "Cougars",
+                    "abbreviation": "WSU",
+                    "conference": "Pac 12",
+                    "division": "North"
+                },
+                "home": {
+                    "team": "Wisconsin",
+                    "location": "Wisconsin",
+                    "mascot": "Badgers",
+                    "abbreviation": "WIS",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.934Z",
+            "gameId": 284934,
+            "venue": {
+                "name": "Camp Randall Stadium",
+                "neutralSite": false,
+                "city": "Madison",
+                "state": "WI"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 17.5,
+                            "home": -17.5,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": 17.5,
+                            "home": -17.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 650,
+                            "homeOdds": -1000
+                        },
+                        "current": {
+                            "awayOdds": 665,
+                            "homeOdds": -1006
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 46.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 49,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:27:01.851Z",
+                    "lastUpdated": "2022-09-08T21:12:41.972Z"
+                }
+            ]
+        },
+        {
+            "summary": "Colorado @ Air Force",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Colorado",
+                    "location": "Colorado",
+                    "mascot": "Buffaloes",
+                    "abbreviation": "COLO",
+                    "conference": "Pac 12",
+                    "division": "South"
+                },
+                "home": {
+                    "team": "Air Force",
+                    "location": "Air Force",
+                    "mascot": "Falcons",
+                    "abbreviation": "AFA",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.902Z",
+            "gameId": 284935,
+            "venue": {
+                "name": "Falcon Stadium",
+                "neutralSite": false,
+                "city": "Colorado Springs",
+                "state": "CO"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 14.5,
+                            "home": -14.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 17.5,
+                            "home": -17.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 638,
+                            "homeOdds": -975
+                        },
+                        "current": {
+                            "awayOdds": 607,
+                            "homeOdds": -875
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 45.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 49,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:42.038Z",
+                    "lastUpdated": "2022-09-08T21:12:42.018Z"
+                }
+            ]
+        },
+        {
+            "summary": "Appalachian State @ Texas A&M",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Appalachian State",
+                    "location": "Appalachian State",
+                    "mascot": "Mountaineers",
+                    "abbreviation": "APP",
+                    "conference": "Sun Belt",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Texas A&M",
+                    "location": "Texas A&M",
+                    "mascot": "Aggies",
+                    "abbreviation": "TAMU",
+                    "conference": "SEC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.014Z",
+            "gameId": 284936,
+            "venue": {
+                "name": "Kyle Field",
+                "neutralSite": false,
+                "city": "College Station",
+                "state": "TX"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 16.5,
+                            "home": -16.5,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": 19,
+                            "home": -19,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 600,
+                            "homeOdds": -900
+                        },
+                        "current": {
+                            "awayOdds": 690,
+                            "homeOdds": -1078
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 54,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 54,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:27:01.816Z",
+                    "lastUpdated": "2022-09-08T21:12:41.920Z"
+                }
+            ]
+        },
+        {
+            "summary": "Tennessee @ Pittsburgh",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T19:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Tennessee",
+                    "location": "Tennessee",
+                    "mascot": "Volunteers",
+                    "abbreviation": "TENN",
+                    "conference": "SEC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Pittsburgh",
+                    "location": "Pittsburgh",
+                    "mascot": "Panthers",
+                    "abbreviation": "PITT",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:51.981Z",
+            "gameId": 284937,
+            "venue": {
+                "name": "Heinz Field",
+                "neutralSite": false,
+                "city": "Pittsburgh",
+                "state": "PA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -5,
+                            "home": 5,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": -6,
+                            "home": 6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -275,
+                            "homeOdds": 235
+                        },
+                        "current": {
+                            "awayOdds": -236,
+                            "homeOdds": 199
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 63.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 67,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:03:42.009Z",
+                    "lastUpdated": "2022-09-08T21:12:41.877Z"
+                }
+            ]
+        },
+        {
+            "summary": "Middle Tennessee @ Colorado State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Middle Tennessee",
+                    "location": "Middle Tennessee",
+                    "mascot": "Blue Raiders",
+                    "abbreviation": "MTSU",
+                    "conference": "Conference USA",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Colorado State",
+                    "location": "Colorado State",
+                    "mascot": "Rams",
+                    "abbreviation": "CSU",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.063Z",
+            "gameId": 284938,
+            "venue": {
+                "name": "Canvas Stadium",
+                "neutralSite": false,
+                "city": "Fort Collins",
+                "state": "CO"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 8,
+                            "home": -8,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 11,
+                            "home": -11,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 240,
+                            "homeOdds": -280
+                        },
+                        "current": {
+                            "awayOdds": 319,
+                            "homeOdds": -407
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 56.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:27:02.017Z",
+                    "lastUpdated": "2022-09-08T21:12:42.362Z"
+                }
+            ]
+        },
+        {
+            "summary": "Eastern Kentucky @ Bowling Green",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Eastern Kentucky",
+                    "location": "Eastern Kentucky",
+                    "mascot": "Colonels",
+                    "abbreviation": "EKY",
+                    "conference": "Ohio Valley"
+                },
+                "home": {
+                    "team": "Bowling Green",
+                    "location": "Bowling Green",
+                    "mascot": "Falcons",
+                    "abbreviation": "BGSU",
+                    "conference": "MAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.107Z",
+            "gameId": 284939,
+            "venue": {
+                "name": "Doyt Perry Stadium",
+                "neutralSite": false,
+                "city": "Bowling Green",
+                "state": "OH"
+            }
+        },
+        {
+            "summary": "Northern Colorado @ Wyoming",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Northern Colorado",
+                    "location": "Northern Colorado",
+                    "mascot": "Bears",
+                    "abbreviation": "UNCO",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Wyoming",
+                    "location": "Wyoming",
+                    "mascot": "Cowboys",
+                    "abbreviation": "WYO",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.133Z",
+            "gameId": 284940,
+            "venue": {
+                "name": "War Memorial Stadium (WY)",
+                "neutralSite": false,
+                "city": "Laramie",
+                "state": "WY"
+            }
+        },
+        {
+            "summary": "Wagner @ Rutgers",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Wagner",
+                    "location": "Wagner",
+                    "mascot": "Seahawks",
+                    "abbreviation": "WAG",
+                    "conference": "Northeast"
+                },
+                "home": {
+                    "team": "Rutgers",
+                    "location": "Rutgers",
+                    "mascot": "Scarlet Knights",
+                    "abbreviation": "RUTG",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.161Z",
+            "gameId": 284941,
+            "venue": {
+                "name": "SHI Stadium",
+                "neutralSite": false,
+                "city": "Piscataway",
+                "state": "NJ"
+            }
+        },
+        {
+            "summary": "Akron @ Michigan State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Akron",
+                    "location": "Akron",
+                    "mascot": "Zips",
+                    "abbreviation": "AKR",
+                    "conference": "MAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Michigan State",
+                    "location": "Michigan State",
+                    "mascot": "Spartans",
+                    "abbreviation": "MSU",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.338Z",
+            "gameId": 284943,
+            "venue": {
+                "name": "Spartan Stadium",
+                "neutralSite": false,
+                "city": "East Lansing",
+                "state": "MI"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 35,
+                            "home": -35,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 34.5,
+                            "home": -34.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 8500,
+                            "homeOdds": -23000
+                        },
+                        "current": {
+                            "awayOdds": 8500,
+                            "homeOdds": -23000
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 56.5,
+                            "overOdds": -105,
+                            "underOdds": -115
+                        },
+                        "current": {
+                            "total": 56,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:27:01.985Z",
+                    "lastUpdated": "2022-09-08T21:12:42.324Z"
+                }
+            ]
+        },
+        {
+            "summary": "Indiana State @ Purdue",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Indiana State",
+                    "location": "Indiana State",
+                    "mascot": "Sycamores",
+                    "abbreviation": "INST",
+                    "conference": "Missouri Valley"
+                },
+                "home": {
+                    "team": "Purdue",
+                    "location": "Purdue",
+                    "mascot": "Boilermakers",
+                    "abbreviation": "PUR",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.183Z",
+            "gameId": 284944,
+            "venue": {
+                "name": "Ross-Ade Stadium",
+                "neutralSite": false,
+                "city": "West Lafayette",
+                "state": "IN"
+            }
+        },
+        {
+            "summary": "Virginia @ Illinois",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Virginia",
+                    "location": "Virginia",
+                    "mascot": "Cavaliers",
+                    "abbreviation": "UVA",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                },
+                "home": {
+                    "team": "Illinois",
+                    "location": "Illinois",
+                    "mascot": "Fighting Illini",
+                    "abbreviation": "ILL",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.207Z",
+            "gameId": 284946,
+            "venue": {
+                "name": "Memorial Stadium (IL)",
+                "neutralSite": false,
+                "city": "Champaign",
+                "state": "IL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 3.5,
+                            "home": -3.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 4,
+                            "home": -4,
+                            "awayOdds": -115,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 170,
+                            "homeOdds": -200
+                        },
+                        "current": {
+                            "awayOdds": 163,
+                            "homeOdds": -188
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 56.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 57.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:18.069Z",
+                    "lastUpdated": "2022-09-08T21:12:42.286Z"
+                }
+            ]
+        },
+        {
+            "summary": "Iowa State @ Iowa",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Iowa State",
+                    "location": "Iowa State",
+                    "mascot": "Cyclones",
+                    "abbreviation": "ISU",
+                    "conference": "Big 12"
+                },
+                "home": {
+                    "team": "Iowa",
+                    "location": "Iowa",
+                    "mascot": "Hawkeyes",
+                    "abbreviation": "IOWA",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.233Z",
+            "gameId": 284947,
+            "venue": {
+                "name": "Kinnick Stadium",
+                "neutralSite": false,
+                "city": "Iowa City",
+                "state": "IA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 3.5,
+                            "home": -3.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 3.5,
+                            "home": -3.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 150,
+                            "homeOdds": -170
+                        },
+                        "current": {
+                            "awayOdds": 153,
+                            "homeOdds": -175
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 41.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 40,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:18.002Z",
+                    "lastUpdated": "2022-09-08T21:12:42.187Z"
+                }
+            ]
+        },
+        {
+            "summary": "Houston @ Texas Tech",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Houston",
+                    "location": "Houston",
+                    "mascot": "Cougars",
+                    "abbreviation": "HOU",
+                    "conference": "AAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Texas Tech",
+                    "location": "Texas Tech",
+                    "mascot": "Red Raiders",
+                    "abbreviation": "TTU",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.312Z",
+            "gameId": 284948,
+            "venue": {
+                "name": "Jones AT&T Stadium",
+                "neutralSite": false,
+                "city": "Lubbock",
+                "state": "TX"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 2.5,
+                            "home": -2.5,
+                            "awayOdds": -105,
+                            "homeOdds": -120
+                        },
+                        "current": {
+                            "away": 3.5,
+                            "home": -3.5,
+                            "awayOdds": -110,
+                            "homeOdds": -115
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 125,
+                            "homeOdds": -145
+                        },
+                        "current": {
+                            "awayOdds": 132,
+                            "homeOdds": -152
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 66.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 63,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:18.031Z",
+                    "lastUpdated": "2022-09-08T21:12:42.241Z"
+                }
+            ]
+        },
+        {
+            "summary": "Portland State @ Washington",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Portland State",
+                    "location": "Portland State",
+                    "mascot": "Vikings",
+                    "abbreviation": "PRST",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Washington",
+                    "location": "Washington",
+                    "mascot": "Huskies",
+                    "abbreviation": "WASH",
+                    "conference": "Pac 12",
+                    "division": "North"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.253Z",
+            "gameId": 284949,
+            "venue": {
+                "name": "Husky Stadium",
+                "neutralSite": false,
+                "city": "Seattle",
+                "state": "WA"
+            }
+        },
+        {
+            "summary": "UNLV @ California",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "UNLV",
+                    "location": "UNLV",
+                    "mascot": "Rebels",
+                    "abbreviation": "UNLV",
+                    "conference": "Mountain West",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "California",
+                    "location": "California",
+                    "mascot": "Golden Bears",
+                    "abbreviation": "CAL",
+                    "conference": "Pac 12",
+                    "division": "North"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.278Z",
+            "gameId": 284950,
+            "venue": {
+                "name": "California Memorial Stadium",
+                "neutralSite": false,
+                "city": "Berkeley",
+                "state": "CA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 13,
+                            "home": -13,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 13,
+                            "home": -13,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 400,
+                            "homeOdds": -500
+                        },
+                        "current": {
+                            "awayOdds": 389,
+                            "homeOdds": -495
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 50,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 48,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:17.971Z",
+                    "lastUpdated": "2022-09-08T21:12:42.148Z"
+                }
+            ]
+        },
+        {
+            "summary": "Samford @ Georgia",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T20:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Samford",
+                    "location": "Samford",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "SAM",
+                    "conference": "Southern"
+                },
+                "home": {
+                    "team": "Georgia",
+                    "location": "Georgia",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "UGA",
+                    "conference": "SEC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.363Z",
+            "gameId": 284951,
+            "venue": {
+                "name": "Sanford Stadium",
+                "neutralSite": false,
+                "city": "Athens",
+                "state": "GA"
+            }
+        },
+        {
+            "summary": "Alabama State @ UCLA",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T21:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Alabama State",
+                    "location": "Alabama State",
+                    "mascot": "Hornets",
+                    "abbreviation": "ALST",
+                    "conference": "SWAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "UCLA",
+                    "location": "UCLA",
+                    "mascot": "Bruins",
+                    "abbreviation": "UCLA",
+                    "conference": "Pac 12",
+                    "division": "South"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.384Z",
+            "gameId": 284952,
+            "venue": {
+                "name": "Rose Bowl",
+                "neutralSite": false,
+                "city": "Pasadena",
+                "state": "CA"
+            }
+        },
+        {
+            "summary": "Incarnate Word @ Nevada",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T21:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Incarnate Word",
+                    "location": "Incarnate Word",
+                    "mascot": "Cardinals",
+                    "abbreviation": "UIW",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Nevada",
+                    "location": "Nevada",
+                    "mascot": "Wolf Pack",
+                    "abbreviation": "NEV",
+                    "conference": "Mountain West",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.401Z",
+            "gameId": 284911,
+            "venue": {
+                "name": "Mackay Stadium",
+                "neutralSite": false,
+                "city": "Reno",
+                "state": "NV"
+            }
+        },
+        {
+            "summary": "UAB @ Liberty",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "UAB",
+                    "location": "UAB",
+                    "mascot": "Blazers",
+                    "abbreviation": "UAB",
+                    "conference": "Conference USA",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Liberty",
+                    "location": "Liberty",
+                    "mascot": "Flames",
+                    "abbreviation": "LIB",
+                    "conference": "Independent"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.431Z",
+            "gameId": 284953,
+            "venue": {
+                "name": "Williams Stadium",
+                "neutralSite": false,
+                "city": "Lynchburg",
+                "state": "VA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -4,
+                            "home": 4,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -6.5,
+                            "home": 6.5,
+                            "awayOdds": -115,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -235,
+                            "homeOdds": 195
+                        },
+                        "current": {
+                            "awayOdds": -245,
+                            "homeOdds": 205
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 53,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 50,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.608Z",
+                    "lastUpdated": "2022-09-08T21:12:42.500Z"
+                }
+            ]
+        },
+        {
+            "summary": "Southeastern Louisiana @ Florida Atlantic",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Southeastern Louisiana",
+                    "location": "Southeastern Louisiana",
+                    "mascot": "Lions",
+                    "abbreviation": "SELA",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Florida Atlantic",
+                    "location": "Florida Atlantic",
+                    "mascot": "Owls",
+                    "abbreviation": "FAU",
+                    "conference": "Conference USA",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.452Z",
+            "gameId": 284954,
+            "venue": {
+                "name": "FAU Stadium",
+                "neutralSite": false,
+                "city": "Boca Raton",
+                "state": "FL"
+            }
+        },
+        {
+            "summary": "Gardner-Webb @ Coastal Carolina",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Gardner-Webb",
+                    "location": "Gardner-Webb",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "WEBB",
+                    "conference": "Big South"
+                },
+                "home": {
+                    "team": "Coastal Carolina",
+                    "location": "Coastal Carolina",
+                    "mascot": "Chanticleers",
+                    "abbreviation": "CCAR",
+                    "conference": "Sun Belt",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.470Z",
+            "gameId": 284955,
+            "venue": {
+                "name": "Brooks Stadium",
+                "neutralSite": false,
+                "city": "Conway",
+                "state": "SC"
+            }
+        },
+        {
+            "summary": "Robert Morris @ Miami (OH)",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Robert Morris",
+                    "location": "Robert Morris",
+                    "mascot": "Colonials",
+                    "abbreviation": "RMU",
+                    "conference": "Northeast"
+                },
+                "home": {
+                    "team": "Miami (OH)",
+                    "location": "Miami (OH)",
+                    "mascot": "RedHawks",
+                    "abbreviation": "MIAO",
+                    "conference": "MAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.488Z",
+            "gameId": 284956,
+            "venue": {
+                "name": "Yager Stadium",
+                "neutralSite": false,
+                "city": "Oxford",
+                "state": "OH"
+            }
+        },
+        {
+            "summary": "Holy Cross @ Buffalo",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Holy Cross",
+                    "location": "Holy Cross",
+                    "mascot": "Crusaders",
+                    "abbreviation": "HC",
+                    "conference": "Patriot League"
+                },
+                "home": {
+                    "team": "Buffalo",
+                    "location": "Buffalo",
+                    "mascot": "Bulls",
+                    "abbreviation": "BUFF",
+                    "conference": "MAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.509Z",
+            "gameId": 284957,
+            "venue": {
+                "name": "UB Stadium",
+                "neutralSite": false,
+                "city": "Amherst",
+                "state": "NY"
+            }
+        },
+        {
+            "summary": "Old Dominion @ East Carolina",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Old Dominion",
+                    "location": "Old Dominion",
+                    "mascot": "Monarchs",
+                    "abbreviation": "ODU",
+                    "conference": "Conference USA",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "East Carolina",
+                    "location": "East Carolina",
+                    "mascot": "Pirates",
+                    "abbreviation": "ECU",
+                    "conference": "AAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.532Z",
+            "gameId": 284958,
+            "venue": {
+                "name": "Dowdy-Ficklen Stadium",
+                "neutralSite": false,
+                "city": "Greenville",
+                "state": "NC"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 10,
+                            "home": -10,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": 12.5,
+                            "home": -12.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 400,
+                            "homeOdds": -500
+                        },
+                        "current": {
+                            "awayOdds": 370,
+                            "homeOdds": -477
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 52.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 51.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.090Z",
+                    "lastUpdated": "2022-09-08T21:12:42.458Z"
+                }
+            ]
+        },
+        {
+            "summary": "Kansas @ West Virginia",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-10T22:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Kansas",
+                    "location": "Kansas",
+                    "mascot": "Jayhawks",
+                    "abbreviation": "KU",
+                    "conference": "Big 12"
+                },
+                "home": {
+                    "team": "West Virginia",
+                    "location": "West Virginia",
+                    "mascot": "Mountaineers",
+                    "abbreviation": "WVU",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.558Z",
+            "gameId": 284959,
+            "venue": {
+                "name": "Milan Puskar Stadium",
+                "neutralSite": false,
+                "city": "Morgantown",
+                "state": "WV"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 13.5,
+                            "home": -13.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 13.5,
+                            "home": -13.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 415,
+                            "homeOdds": -525
+                        },
+                        "current": {
+                            "awayOdds": 409,
+                            "homeOdds": -533
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 60,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.062Z",
+                    "lastUpdated": "2022-09-08T21:12:42.410Z"
+                }
+            ]
+        },
+        {
+            "summary": "Weber State @ Utah State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Weber State",
+                    "location": "Weber State",
+                    "mascot": "Wildcats",
+                    "abbreviation": "WEB",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Utah State",
+                    "location": "Utah State",
+                    "mascot": "Aggies",
+                    "abbreviation": "USU",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.758Z",
+            "gameId": 284912,
+            "venue": {
+                "name": "Maverik Stadium",
+                "neutralSite": false,
+                "city": "Logan",
+                "state": "UT"
+            }
+        },
+        {
+            "summary": "Stephen F. Austin @ Louisiana Tech",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Stephen F. Austin",
+                    "location": "Stephen F. Austin",
+                    "mascot": "Lumberjacks",
+                    "abbreviation": "SFA",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Louisiana Tech",
+                    "location": "Louisiana Tech",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "LT",
+                    "conference": "Conference USA",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.586Z",
+            "gameId": 284960,
+            "venue": {
+                "name": "Joe Aillet Stadium",
+                "neutralSite": false,
+                "city": "Ruston",
+                "state": "LA"
+            }
+        },
+        {
+            "summary": "Florida International @ Texas State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Florida International",
+                    "location": "Florida International",
+                    "mascot": "Panthers",
+                    "abbreviation": "FIU",
+                    "conference": "Conference USA",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Texas State",
+                    "location": "Texas State",
+                    "mascot": "Bobcats",
+                    "abbreviation": "TXST",
+                    "conference": "Sun Belt",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.609Z",
+            "gameId": 284961,
+            "venue": {
+                "name": "Bobcat Stadium (TX)",
+                "neutralSite": false,
+                "city": "San Marcos",
+                "state": "TX"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 13.5,
+                            "home": -13.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 13.5,
+                            "home": -13.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 425,
+                            "homeOdds": -550
+                        },
+                        "current": {
+                            "awayOdds": 426,
+                            "homeOdds": -555
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 55.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 59.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-05T16:03:38.473Z",
+                    "lastUpdated": "2022-09-08T21:12:42.799Z"
+                }
+            ]
+        },
+        {
+            "summary": "Alabama A&M @ Troy",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Alabama A&M",
+                    "location": "Alabama A&M",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "AAMU",
+                    "conference": "SWAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Troy",
+                    "location": "Troy",
+                    "mascot": "Trojans",
+                    "abbreviation": "TROY",
+                    "conference": "Sun Belt",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.628Z",
+            "gameId": 284962,
+            "venue": {
+                "name": "Veterans Memorial Stadium",
+                "neutralSite": false,
+                "city": "Troy",
+                "state": "AL"
+            }
+        },
+        {
+            "summary": "Eastern Michigan @ Louisiana-Lafayette",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Eastern Michigan",
+                    "location": "Eastern Michigan",
+                    "mascot": "Eagles",
+                    "abbreviation": "EMU",
+                    "conference": "MAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Louisiana-Lafayette",
+                    "location": "Louisiana-Lafayette",
+                    "mascot": "Ragin' Cajuns",
+                    "abbreviation": "ULL",
+                    "conference": "Sun Belt",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.650Z",
+            "gameId": 284963,
+            "venue": {
+                "name": "Cajun Field",
+                "neutralSite": false,
+                "city": "Lafayette",
+                "state": "LA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 12,
+                            "home": -12,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 11.5,
+                            "home": -11.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 325,
+                            "homeOdds": -400
+                        },
+                        "current": {
+                            "awayOdds": 338,
+                            "homeOdds": -434
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 56.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.766Z",
+                    "lastUpdated": "2022-09-08T21:12:42.709Z"
+                }
+            ]
+        },
+        {
+            "summary": "Northern Illinois @ Tulsa",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Northern Illinois",
+                    "location": "Northern Illinois",
+                    "mascot": "Huskies",
+                    "abbreviation": "NIU",
+                    "conference": "MAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Tulsa",
+                    "location": "Tulsa",
+                    "mascot": "Golden Hurricane",
+                    "abbreviation": "TLSA",
+                    "conference": "AAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.677Z",
+            "gameId": 284964,
+            "venue": {
+                "name": "Chapman Stadium",
+                "neutralSite": false,
+                "city": "Tulsa",
+                "state": "OK"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -115,
+                            "homeOdds": -105
+                        },
+                        "current": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -110,
+                            "homeOdds": -115
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 180,
+                            "homeOdds": -220
+                        },
+                        "current": {
+                            "awayOdds": 196,
+                            "homeOdds": -233
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 57.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 62.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.794Z",
+                    "lastUpdated": "2022-09-08T21:12:42.759Z"
+                }
+            ]
+        },
+        {
+            "summary": "Howard @ South Florida",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Howard",
+                    "location": "Howard",
+                    "mascot": "Bison",
+                    "abbreviation": "HOW",
+                    "conference": "MEAC"
+                },
+                "home": {
+                    "team": "South Florida",
+                    "location": "South Florida",
+                    "mascot": "Bulls",
+                    "abbreviation": "USF",
+                    "conference": "AAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.696Z",
+            "gameId": 284965,
+            "venue": {
+                "name": "Raymond James Stadium",
+                "neutralSite": false,
+                "city": "Tampa",
+                "state": "FL"
+            }
+        },
+        {
+            "summary": "Lamar @ SMU",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Lamar",
+                    "location": "Lamar",
+                    "mascot": "Cardinals",
+                    "abbreviation": "LAM",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "SMU",
+                    "location": "SMU",
+                    "mascot": "Mustangs",
+                    "abbreviation": "SMU",
+                    "conference": "AAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.721Z",
+            "gameId": 284966,
+            "venue": {
+                "name": "Gerald J. Ford Stadium",
+                "neutralSite": false,
+                "city": "Dallas",
+                "state": "TX"
+            }
+        },
+        {
+            "summary": "Alcorn State @ Tulane",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Alcorn State",
+                    "location": "Alcorn State",
+                    "mascot": "Braves",
+                    "abbreviation": "ALCN",
+                    "conference": "SWAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Tulane",
+                    "location": "Tulane",
+                    "mascot": "Green Wave",
+                    "abbreviation": "TULN",
+                    "conference": "AAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.740Z",
+            "gameId": 284967,
+            "venue": {
+                "name": "Yulman Stadium",
+                "neutralSite": false,
+                "city": "New Orleans",
+                "state": "LA"
+            }
+        },
+        {
+            "summary": "Massachusetts @ Toledo",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Massachusetts",
+                    "location": "Massachusetts",
+                    "mascot": "Minutemen",
+                    "abbreviation": "MASS",
+                    "conference": "Independent"
+                },
+                "home": {
+                    "team": "Toledo",
+                    "location": "Toledo",
+                    "mascot": "Rockets",
+                    "abbreviation": "TOL",
+                    "conference": "MAC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.782Z",
+            "gameId": 284968,
+            "venue": {
+                "name": "Glass Bowl",
+                "neutralSite": false,
+                "city": "Toledo",
+                "state": "OH"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 30,
+                            "home": -30,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 28.5,
+                            "home": -28.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 3500,
+                            "homeOdds": -8500
+                        },
+                        "current": {
+                            "awayOdds": 2625,
+                            "homeOdds": -5500
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 53.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 49,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.736Z",
+                    "lastUpdated": "2022-09-08T21:12:42.668Z"
+                }
+            ]
+        },
+        {
+            "summary": "Western Carolina @ Georgia Tech",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Western Carolina",
+                    "location": "Western Carolina",
+                    "mascot": "Catamounts",
+                    "abbreviation": "WCU",
+                    "conference": "Southern"
+                },
+                "home": {
+                    "team": "Georgia Tech",
+                    "location": "Georgia Tech",
+                    "mascot": "Yellow Jackets",
+                    "abbreviation": "GT",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.801Z",
+            "gameId": 284969,
+            "venue": {
+                "name": "Bobby Dodd Stadium",
+                "neutralSite": false,
+                "city": "Atlanta",
+                "state": "GA"
+            }
+        },
+        {
+            "summary": "Syracuse @ Connecticut",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Syracuse",
+                    "location": "Syracuse",
+                    "mascot": "Orange",
+                    "abbreviation": "SYR",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                },
+                "home": {
+                    "team": "Connecticut",
+                    "location": "Connecticut",
+                    "mascot": "Huskies",
+                    "abbreviation": "CONN",
+                    "conference": "Independent"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.824Z",
+            "gameId": 284971,
+            "venue": {
+                "name": "Pratt & Whitney Stadium at Rentschler Field",
+                "neutralSite": false,
+                "city": "East Hartford",
+                "state": "CT"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -21,
+                            "home": 21,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -23,
+                            "home": 23,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -1333,
+                            "homeOdds": 875
+                        },
+                        "current": {
+                            "awayOdds": -2010,
+                            "homeOdds": 1085
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 53,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 49,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.701Z",
+                    "lastUpdated": "2022-09-08T21:12:42.629Z"
+                }
+            ]
+        },
+        {
+            "summary": "Kent State @ Oklahoma",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Kent State",
+                    "location": "Kent State",
+                    "mascot": "Golden Flashes",
+                    "abbreviation": "KENT",
+                    "conference": "MAC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Oklahoma",
+                    "location": "Oklahoma",
+                    "mascot": "Sooners",
+                    "abbreviation": "OKLA",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.913Z",
+            "gameId": 284973,
+            "venue": {
+                "name": "Memorial Stadium (OK)",
+                "neutralSite": false,
+                "city": "Norman",
+                "state": "OK"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 32,
+                            "home": -32,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 33.5,
+                            "home": -33.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 3375,
+                            "homeOdds": -8000
+                        },
+                        "current": {
+                            "awayOdds": 3500,
+                            "homeOdds": -8500
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 71,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 72.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.673Z",
+                    "lastUpdated": "2022-09-08T21:12:42.592Z"
+                }
+            ]
+        },
+        {
+            "summary": "Central Arkansas @ Mississippi",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Central Arkansas",
+                    "location": "Central Arkansas",
+                    "mascot": "Bears",
+                    "abbreviation": "CARK",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Mississippi",
+                    "location": "Mississippi",
+                    "mascot": "Rebels",
+                    "abbreviation": "MISS",
+                    "conference": "SEC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.854Z",
+            "gameId": 284975,
+            "venue": {
+                "name": "Vaught-Hemingway Stadium",
+                "neutralSite": false,
+                "city": "Oxford",
+                "state": "MS"
+            }
+        },
+        {
+            "summary": "Kentucky @ Florida",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-10T23:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Kentucky",
+                    "location": "Kentucky",
+                    "mascot": "Wildcats",
+                    "abbreviation": "UK",
+                    "conference": "SEC",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Florida",
+                    "location": "Florida",
+                    "mascot": "Gators",
+                    "abbreviation": "FLA",
+                    "conference": "SEC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.879Z",
+            "gameId": 284977,
+            "venue": {
+                "name": "Ben Hill Griffin Stadium",
+                "neutralSite": false,
+                "city": "Gainesville",
+                "state": "FL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 165,
+                            "homeOdds": -190
+                        },
+                        "current": {
+                            "awayOdds": 188,
+                            "homeOdds": -225
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 52,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 52.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.643Z",
+                    "lastUpdated": "2022-09-08T21:12:42.544Z"
+                }
+            ]
+        },
+        {
+            "summary": "McNeese State @ Rice",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "McNeese State",
+                    "location": "McNeese State",
+                    "mascot": "Cowboys",
+                    "abbreviation": "MCNS",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Rice",
+                    "location": "Rice",
+                    "mascot": "Owls",
+                    "abbreviation": "RICE",
+                    "conference": "Conference USA",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.945Z",
+            "gameId": 284979,
+            "venue": {
+                "name": "Rice Stadium",
+                "neutralSite": false,
+                "city": "Houston",
+                "state": "TX"
+            }
+        },
+        {
+            "summary": "Texas Southern @ North Texas",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Texas Southern",
+                    "location": "Texas Southern",
+                    "mascot": "Tigers",
+                    "abbreviation": "TXSO",
+                    "conference": "SWAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "North Texas",
+                    "location": "North Texas",
+                    "mascot": "Mean Green",
+                    "abbreviation": "UNT",
+                    "conference": "Conference USA",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:52.978Z",
+            "gameId": 284981,
+            "venue": {
+                "name": "Apogee Stadium",
+                "neutralSite": false,
+                "city": "Denton",
+                "state": "TX"
+            }
+        },
+        {
+            "summary": "Georgia Southern @ Nebraska",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Georgia Southern",
+                    "location": "Georgia Southern",
+                    "mascot": "Eagles",
+                    "abbreviation": "GASO",
+                    "conference": "Sun Belt",
+                    "division": "East"
+                },
+                "home": {
+                    "team": "Nebraska",
+                    "location": "Nebraska",
+                    "mascot": "Cornhuskers",
+                    "abbreviation": "NEB",
+                    "conference": "Big Ten",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.015Z",
+            "gameId": 284983,
+            "venue": {
+                "name": "Memorial Stadium (NE)",
+                "neutralSite": false,
+                "city": "Lincoln",
+                "state": "NE"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 21.5,
+                            "home": -21.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 23.5,
+                            "home": -23.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 1000,
+                            "homeOdds": -1500
+                        },
+                        "current": {
+                            "awayOdds": 1150,
+                            "homeOdds": -2500
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 61,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 63,
+                            "overOdds": -105,
+                            "underOdds": -115
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.929Z",
+                    "lastUpdated": "2022-09-08T21:12:42.963Z"
+                }
+            ]
+        },
+        {
+            "summary": "USC @ Stanford",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "USC",
+                    "location": "USC",
+                    "mascot": "Trojans",
+                    "abbreviation": "USC",
+                    "conference": "Pac 12",
+                    "division": "South"
+                },
+                "home": {
+                    "team": "Stanford",
+                    "location": "Stanford",
+                    "mascot": "Cardinal",
+                    "abbreviation": "STAN",
+                    "conference": "Pac 12",
+                    "division": "North"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.103Z",
+            "gameId": 284984,
+            "venue": {
+                "name": "Stanford Stadium",
+                "neutralSite": false,
+                "city": "Stanford",
+                "state": "CA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -10.5,
+                            "home": 10.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -8.5,
+                            "home": 8.5,
+                            "awayOdds": -110,
+                            "homeOdds": -115
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -350,
+                            "homeOdds": 290
+                        },
+                        "current": {
+                            "awayOdds": -318,
+                            "homeOdds": 262
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 65,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 67.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.862Z",
+                    "lastUpdated": "2022-09-08T21:12:42.875Z"
+                }
+            ]
+        },
+        {
+            "summary": "Arizona State @ Oklahoma State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Arizona State",
+                    "location": "Arizona State",
+                    "mascot": "Sun Devils",
+                    "abbreviation": "ASU",
+                    "conference": "Pac 12",
+                    "division": "South"
+                },
+                "home": {
+                    "team": "Oklahoma State",
+                    "location": "Oklahoma State",
+                    "mascot": "Cowboys",
+                    "abbreviation": "OKST",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.079Z",
+            "gameId": 284986,
+            "venue": {
+                "name": "Boone Pickens Stadium",
+                "neutralSite": false,
+                "city": "Stillwater",
+                "state": "OK"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 10.5,
+                            "home": -10.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 11,
+                            "home": -11,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 325,
+                            "homeOdds": -400
+                        },
+                        "current": {
+                            "awayOdds": 332,
+                            "homeOdds": -425
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 54,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 58,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.119Z",
+                    "lastUpdated": "2022-09-08T21:12:42.923Z"
+                }
+            ]
+        },
+        {
+            "summary": "Southern @ LSU",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Southern",
+                    "location": "Southern",
+                    "mascot": "Jaguars",
+                    "abbreviation": "SOU",
+                    "conference": "SWAC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "LSU",
+                    "location": "LSU",
+                    "mascot": "Tigers",
+                    "abbreviation": "LSU",
+                    "conference": "SEC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.033Z",
+            "gameId": 284987,
+            "venue": {
+                "name": "Tiger Stadium",
+                "neutralSite": false,
+                "city": "Baton Rouge",
+                "state": "LA"
+            }
+        },
+        {
+            "summary": "San Jose State @ Auburn",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-10T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "San Jose State",
+                    "location": "San Jose State",
+                    "mascot": "Spartans",
+                    "abbreviation": "SJSU",
+                    "conference": "Mountain West",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Auburn",
+                    "location": "Auburn",
+                    "mascot": "Tigers",
+                    "abbreviation": "AUB",
+                    "conference": "SEC",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.055Z",
+            "gameId": 284989,
+            "venue": {
+                "name": "Jordan-Hare Stadium",
+                "neutralSite": false,
+                "city": "Auburn",
+                "state": "AL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 21.5,
+                            "home": -21.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 23,
+                            "home": -23,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 1250,
+                            "homeOdds": -2000
+                        },
+                        "current": {
+                            "awayOdds": 1148,
+                            "homeOdds": -2173
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 51.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 48.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T21:15:49.822Z",
+                    "lastUpdated": "2022-09-08T21:12:42.837Z"
+                }
+            ]
+        },
+        {
+            "summary": "Idaho State @ San Diego State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Idaho State",
+                    "location": "Idaho State",
+                    "mascot": "Bengals",
+                    "abbreviation": "IDST",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "San Diego State",
+                    "location": "San Diego State",
+                    "mascot": "Aztecs",
+                    "abbreviation": "SDSU",
+                    "conference": "Mountain West",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.146Z",
+            "gameId": 284913,
+            "venue": {
+                "name": "Snapdragon Stadium",
+                "neutralSite": false,
+                "city": "San Diego",
+                "state": "CA"
+            }
+        },
+        {
+            "summary": "Nicholls State @ Louisiana-Monroe",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Nicholls State",
+                    "location": "Nicholls State",
+                    "mascot": "Colonels",
+                    "abbreviation": "NICH",
+                    "conference": "Southland"
+                },
+                "home": {
+                    "team": "Louisiana-Monroe",
+                    "location": "Louisiana-Monroe",
+                    "mascot": "Warhawks",
+                    "abbreviation": "ULM",
+                    "conference": "Sun Belt",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.122Z",
+            "gameId": 284991,
+            "venue": {
+                "name": "Malone Stadium",
+                "neutralSite": false,
+                "city": "Monroe",
+                "state": "LA"
+            }
+        },
+        {
+            "summary": "Boston College @ Virginia Tech",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Boston College",
+                    "location": "Boston College",
+                    "mascot": "Eagles",
+                    "abbreviation": "BC",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                },
+                "home": {
+                    "team": "Virginia Tech",
+                    "location": "Virginia Tech",
+                    "mascot": "Hokies",
+                    "abbreviation": "VT",
+                    "conference": "ACC",
+                    "division": "Coastal"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.169Z",
+            "gameId": 284993,
+            "venue": {
+                "name": "Lane Stadium",
+                "neutralSite": false,
+                "city": "Blacksburg",
+                "state": "VA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 3,
+                            "home": -3,
+                            "awayOdds": -100,
+                            "homeOdds": -120
+                        },
+                        "current": {
+                            "away": 2.5,
+                            "home": -2.5,
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 168,
+                            "homeOdds": -195
+                        },
+                        "current": {
+                            "awayOdds": 123,
+                            "homeOdds": -143
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 45,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 46,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.145Z",
+                    "lastUpdated": "2022-09-08T21:12:43.003Z"
+                }
+            ]
+        },
+        {
+            "summary": "Hawaii @ Michigan",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Hawaii",
+                    "location": "Hawaii",
+                    "mascot": "Rainbow Warriors",
+                    "abbreviation": "HAW",
+                    "conference": "Mountain West",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Michigan",
+                    "location": "Michigan",
+                    "mascot": "Wolverines",
+                    "abbreviation": "MICH",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.232Z",
+            "gameId": 284995,
+            "venue": {
+                "name": "Michigan Stadium",
+                "neutralSite": false,
+                "city": "Ann Arbor",
+                "state": "MI"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 50,
+                            "home": -50,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 51.5,
+                            "home": -51.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 3928,
+                            "homeOdds": -11784
+                        },
+                        "current": {
+                            "awayOdds": 3928,
+                            "homeOdds": -11784
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 65.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 67.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.181Z",
+                    "lastUpdated": "2022-09-08T21:12:43.042Z"
+                }
+            ]
+        },
+        {
+            "summary": "Idaho @ Indiana",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Idaho",
+                    "location": "Idaho",
+                    "mascot": "Vandals",
+                    "abbreviation": "IDHO",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Indiana",
+                    "location": "Indiana",
+                    "mascot": "Hoosiers",
+                    "abbreviation": "IND",
+                    "conference": "Big Ten",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.189Z",
+            "gameId": 284997,
+            "venue": {
+                "name": "Memorial Stadium (Bloomington, IN)",
+                "neutralSite": false,
+                "city": "Bloomington",
+                "state": "IN"
+            }
+        },
+        {
+            "schedule": {
+                "date": "2022-09-11T00:00:00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Tarleton State @ TCU",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Tarleton State",
+                    "location": "Tarleton State",
+                    "mascot": "Texans",
+                    "abbreviation": "TARL"
+                },
+                "home": {
+                    "team": "TCU",
+                    "location": "TCU",
+                    "mascot": "Horned Frogs",
+                    "abbreviation": "TCU",
+                    "conference": "Big 12"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.208Z",
+            "gameId": 285687,
+            "venue": {
+                "name": "Amon G. Carter Stadium",
+                "city": "Fort Worth",
+                "state": "TX",
+                "neutralSite": false
+            }
+        },
+        {
+            "summary": "Eastern Washington @ Oregon",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T00:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Eastern Washington",
+                    "location": "Eastern Washington",
+                    "mascot": "Eagles",
+                    "abbreviation": "EWU",
+                    "conference": "Big Sky"
+                },
+                "home": {
+                    "team": "Oregon",
+                    "location": "Oregon",
+                    "mascot": "Ducks",
+                    "abbreviation": "ORE",
+                    "conference": "Pac 12",
+                    "division": "North"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.253Z",
+            "gameId": 284999,
+            "venue": {
+                "name": "Autzen Stadium",
+                "neutralSite": false,
+                "city": "Eugene",
+                "state": "OR"
+            }
+        },
+        {
+            "summary": "New Mexico State @ UTEP",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T01:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "New Mexico State",
+                    "location": "New Mexico State",
+                    "mascot": "Aggies",
+                    "abbreviation": "NMSU",
+                    "conference": "Independent"
+                },
+                "home": {
+                    "team": "UTEP",
+                    "location": "UTEP",
+                    "mascot": "Miners",
+                    "abbreviation": "UTEP",
+                    "conference": "Conference USA",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.283Z",
+            "gameId": 285001,
+            "venue": {
+                "name": "Sun Bowl",
+                "neutralSite": false,
+                "city": "El Paso",
+                "state": "TX"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 14,
+                            "home": -14,
+                            "awayOdds": -115,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 16,
+                            "home": -16,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 415,
+                            "homeOdds": -525
+                        },
+                        "current": {
+                            "awayOdds": 512,
+                            "homeOdds": -725
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 46.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 46.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.209Z",
+                    "lastUpdated": "2022-09-08T21:12:43.089Z"
+                }
+            ]
+        },
+        {
+            "summary": "Boise State @ New Mexico",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-11T01:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Boise State",
+                    "location": "Boise State",
+                    "mascot": "Broncos",
+                    "abbreviation": "BSU",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                },
+                "home": {
+                    "team": "New Mexico",
+                    "location": "New Mexico",
+                    "mascot": "Lobos",
+                    "abbreviation": "UNM",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-06-07T03:03:21.775Z",
+            "gameId": 285003,
+            "venue": {
+                "name": "University Stadium (NM)",
+                "neutralSite": false,
+                "city": "Albuquerque",
+                "state": "NM"
+            }
+        },
+        {
+            "summary": "Baylor @ BYU",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T02:15:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Baylor",
+                    "location": "Baylor",
+                    "mascot": "Bears",
+                    "abbreviation": "BAY",
+                    "conference": "Big 12"
+                },
+                "home": {
+                    "team": "BYU",
+                    "location": "BYU",
+                    "mascot": "Cougars",
+                    "abbreviation": "BYU",
+                    "conference": "Independent"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.309Z",
+            "gameId": 285005,
+            "venue": {
+                "name": "LaVell Edwards Stadium",
+                "neutralSite": false,
+                "city": "Provo",
+                "state": "UT"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 3,
+                            "home": -3,
+                            "awayOdds": -110,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "away": 3,
+                            "home": -3,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 125,
+                            "homeOdds": -145
+                        },
+                        "current": {
+                            "awayOdds": 133,
+                            "homeOdds": -153
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 53,
+                            "overOdds": -110,
+                            "underOdds": -115
+                        },
+                        "current": {
+                            "total": 53.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:48:51.236Z",
+                    "lastUpdated": "2022-09-08T21:12:43.130Z"
+                }
+            ]
+        },
+        {
+            "summary": "Oregon State @ Fresno State",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T02:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Oregon State",
+                    "location": "Oregon State",
+                    "mascot": "Beavers",
+                    "abbreviation": "ORST",
+                    "conference": "Pac 12",
+                    "division": "North"
+                },
+                "home": {
+                    "team": "Fresno State",
+                    "location": "Fresno State",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "FRES",
+                    "conference": "Mountain West",
+                    "division": "West"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.333Z",
+            "gameId": 285006,
+            "venue": {
+                "name": "Bulldog Stadium (CA)",
+                "neutralSite": false,
+                "city": "Fresno",
+                "state": "CA"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 0,
+                            "home": 0,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -1,
+                            "home": 1,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "awayOdds": -113,
+                            "homeOdds": -107
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 58.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 61.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:18.148Z",
+                    "lastUpdated": "2022-09-08T21:12:43.170Z"
+                }
+            ]
+        },
+        {
+            "summary": "Mississippi State @ Arizona",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-11T03:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Mississippi State",
+                    "location": "Mississippi State",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "MSST",
+                    "conference": "SEC",
+                    "division": "West"
+                },
+                "home": {
+                    "team": "Arizona",
+                    "location": "Arizona",
+                    "mascot": "Wildcats",
+                    "abbreviation": "ARIZ",
+                    "conference": "Pac 12",
+                    "division": "South"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:53.357Z",
+            "gameId": 285008,
+            "venue": {
+                "name": "Arizona Stadium",
+                "neutralSite": false,
+                "city": "Tucson",
+                "state": "AZ"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -8,
+                            "home": 8,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -11,
+                            "home": 11,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -350,
+                            "homeOdds": 290
+                        },
+                        "current": {
+                            "awayOdds": -392,
+                            "homeOdds": 306
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 61.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 60.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T20:36:18.181Z",
+                    "lastUpdated": "2022-09-08T21:12:43.216Z"
+                }
+            ]
+        }
+    ]
+}

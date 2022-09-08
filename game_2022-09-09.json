@@ -1,0 +1,174 @@
+{
+    "status": 200,
+    "time": "2022-09-08T21:15:56.279Z",
+    "games": 2,
+    "skip": 0,
+    "results": [
+        {
+            "summary": "Louisville @ UCF",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "schedule": {
+                "date": "2022-09-09T23:30:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Louisville",
+                    "location": "Louisville",
+                    "mascot": "Cardinals",
+                    "abbreviation": "LOU",
+                    "conference": "ACC",
+                    "division": "Atlantic"
+                },
+                "home": {
+                    "team": "UCF",
+                    "location": "UCF",
+                    "mascot": "Knights",
+                    "abbreviation": "UCF",
+                    "conference": "AAC",
+                    "division": "East"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:46.087Z",
+            "gameId": 284884,
+            "venue": {
+                "name": "Bounce House",
+                "neutralSite": false,
+                "city": "Orlando",
+                "state": "FL"
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 5.5,
+                            "home": -5.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 220,
+                            "homeOdds": -260
+                        },
+                        "current": {
+                            "awayOdds": 180,
+                            "homeOdds": -212
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 61.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 61.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:22:42.351Z",
+                    "lastUpdated": "2022-09-08T21:12:41.122Z"
+                }
+            ]
+        },
+        {
+            "summary": "Boise State @ New Mexico",
+            "details": {
+                "league": "NCAAF",
+                "seasonType": "regular",
+                "season": 2022,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "schedule": {
+                "date": "2022-09-10T01:00:00.000Z",
+                "tbaTime": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Boise State",
+                    "location": "Boise State",
+                    "mascot": "Broncos",
+                    "abbreviation": "BSU",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                },
+                "home": {
+                    "team": "New Mexico",
+                    "location": "New Mexico",
+                    "mascot": "Lobos",
+                    "abbreviation": "UNM",
+                    "conference": "Mountain West",
+                    "division": "Mountain"
+                }
+            },
+            "lastUpdated": "2022-09-08T20:07:46.124Z",
+            "gameId": 284886,
+            "venue": {
+                "name": "University Stadium (NM)",
+                "city": "Albuquerque",
+                "state": "NM",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -16.5,
+                            "home": 16.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -17,
+                            "home": 17,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -900,
+                            "homeOdds": 600
+                        },
+                        "current": {
+                            "awayOdds": -818,
+                            "homeOdds": 577
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 46.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 44,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2022-09-04T19:22:42.405Z",
+                    "lastUpdated": "2022-09-08T21:12:41.175Z"
+                }
+            ]
+        }
+    ]
+}

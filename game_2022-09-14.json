@@ -1,0 +1,5 @@
+{
+    "status": 401,
+    "error": "Game searches beyond 3 days in the future require paid access.",
+    "results": []
+}

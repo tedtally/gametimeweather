@@ -1,36 +1,22 @@
 import json
-###
-### grab CFB games on the selected date
-###
-from dotenv import load_dotenv
 import requests
 import os
 import arrow as ar
+from dotenv import load_dotenv
 
-load_dotenv()
+def main():
+	load_dotenv()
 
-url = "https://sportspage-feeds.p.rapidapi.com/games"
-test = 1
-
-if test == 1:
-	with open("gameII.json", 'r') as file:
-		games = json.load(file)
-
-else:
-	querystring = {"league":"NCAAF","date":"2022-09-10"}
-
+def get_forecast(city, state):
+	url = "http://dataservice.accuweather.com/forecasts/v1/daily/1day"
+	payload = f"{url}/{os.getenv('ACCU_API_KEY')}"
 	headers = {
-		"X-RapidAPI-Key": os.getenv('X-RapidAPI-Key'),
-		"X-RapidAPI-Host": "sportspage-feeds.p.rapidapi.com"
+		"content-type": "application/json",
+		"Accept": "application/json"
 	}
 
-	response = requests.request("GET", url, headers=headers, params=querystring)
-	games = json.loads(response.text)
-	with open("gameII.json", 'w+') as file:
-		file.write(json.dumps(games))
-
-#print(response.text)
-
+	response = requests.request("GET", payload, headers=headers, data={})
+	print(response.text)
 
 ###
 ### Get Weather Key info based on City and State
@@ -44,7 +30,6 @@ for g in games['results']:
 	gametime = gametime_base.to('local').format()
 	print(g['summary'] , " - " , gametime, "--------------")
 	test_loc = g['venue']
-	#url = "https://accuweatherstefan-skliarovv1.p.rapidapi.com/searchLocation"
 	url = "http://dataservice.accuweather.com/locations/v1/search"
 	#payload = f"query={test_loc['city']}%20{test_loc['state']}&apiKey={os.getenv('ACCU_API_KEY')}"
 	payload = f"{url}?apikey={os.getenv('ACCU_API_KEY')}&q={test_loc['city']}%20{test_loc['state']}"
