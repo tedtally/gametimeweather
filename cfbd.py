@@ -14,9 +14,6 @@ test = 1
 
 #get weekly schedule
 
-# curl -X GET "https://api.collegefootballdata.com/games?year=2022&week=2&seasonType=regular" 
-# -H  "accept: application/json" 
-# -H  "Authorization: Bearer kzJOfyhaqalLHuPVZkp0KErKq6sp/TWRqb68XsPg+C14YGI+A2o5rsik3LPpqsUM"
 year = 2022
 week = 2
 querystring = f'year={year}&week={week}&seasonType=regular'
