@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from datetime import datetime, timedelta
-
+from tqdm import tqdm
 
 def main():
     # Page setting
@@ -131,7 +131,7 @@ def main():
     #        for x in df_temp:
     #            df_list.append(x)
 
-
+    tqdm_segm_labels = tqdm(df_list)
     df_list = cfb.get_games(startdate)
 
     df = pd.DataFrame(data=df_list)
@@ -139,7 +139,7 @@ def main():
 
     def handle_interval():
         if st.session_state.my_interval:
-            st.session_state.my_interval = intervals
+            st.session_state.my_interval = week_interval
 
     col1, col2, col3, col4 = st.columns([4,4,4, 4], gap="medium")
     #with col1:
@@ -150,7 +150,7 @@ def main():
     with col2:
         test =  st.multiselect('Select a locations', [1,2,3])
     with col3:
-        intervals = st.radio('Select week', (weeks), on_change=handle_interval, horizontal=True)    
+        week_interval = st.radio('Select week', (weeks), on_change=handle_interval, horizontal=True)    
     with col4:
         d = st.date_input("As Of Date")
 
@@ -158,10 +158,21 @@ def main():
 
     if weekdays:
         st.write(weekdays[0])
-        gdate = get_game_date(startdate, weekdays[0])
+        gdate = get_game_date(startdate, weekdays[0]) #get_game_date(startdate, weekdays[0])
         st.write(gdate)
         new_df = new_df[new_df['game_date'].isin([gdate])]
-    
+
+    if week_interval:
+        st.write(week_interval)
+        df = pd.DataFrame(data=cfb.get_games(startdate, week_interval))
+        st.cache(df)
+        new_df = df
+        #new_df = new_df[new_df['week']==intervals]
+
+    if d:
+        st.write(d)
+        new_df = new_df[new_df['game_date']<=d.strftime('%Y-%m-%d')]
+        
     st._legacy_dataframe(new_df)
 
 # get game info from rapidapi_sports_feed

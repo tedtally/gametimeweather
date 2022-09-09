@@ -51,7 +51,7 @@ def get_venue_location(venue):
     else:
         return {"city": "N/A", "state": "N/A"}
 
-def build_list(games, division):
+def build_list(week, games, division):
     games_results = []
     for g in games:
         print(g)
@@ -59,6 +59,7 @@ def build_list(games, division):
         gametime_base = ar.get(g['start_date'], 'YYYY-MM-DDTHH:mm:ss.000Z')
         gametime = gametime_base.to('local').format()     
         game_data["division"] = division
+        game_data["week"] = week
         lines = get_lines(gametime[0:4],g["id"])
         print(lines)
         if lines is not None:
@@ -99,7 +100,7 @@ def build_list(games, division):
         games_results.append(game_data)
     return games_results
 
-def get_games(startdate):
+def get_games(startdate, weekNum=None):
     #https://api.collegefootballdata.com/games?year=2022&week=2&seasonType=regular&division=fcs or fbs"
     url = os.getenv("CFBD_API_BASE_URL")
     test = 1
@@ -113,27 +114,47 @@ def get_games(startdate):
         schedule = json.load(f)
     
     year = startdate[0:4]
-    week = [w for w in schedule if startdate < w["firstGameStart"]][0]
+    # see if two dates are in the same week
+    week = [w for w in schedule if w["firstGameStart"] <= startdate and w["lastGameStart"] >= startdate][0]
     division= 'fbs'
-    querystring = f'year={year}&week={week["week"]}&seasonType=regular&division={division}'
-    gameurl = f'{url}games?{querystring}'
-    print(gameurl)
+    games_results = []
+    #week["week"] = 1
+    if not weekNum is None:
+        print('Grab week : ' + str(weekNum))
+        if os.path.exists(f'cfb_games_asof_week{weekNum}.json'):
+            print(f' load cfb_games_asof_week{weekNum}.json')
+            with open(f'cfb_games_asof_week{weekNum}.json', 'r') as f:
+                games_results = json.load(f)
+            return games_results
 
-    #fbs
-    response = requests.request("GET", gameurl, headers=headers)
-    games = json.loads(response.text)
-    games_results = build_list(games, division)
+    if len(week) > 0:
+        querystring = f'year={year}&week={week["week"]}&seasonType=regular&division={division}'
+        gameurl = f'{url}games?{querystring}'
+        print(gameurl)
 
+        # if file "game_{gamedate}.json exists
+        if os.path.exists(f'cfb_games_asof_week{week["week"]}.json'):
+            # read file
+            with open(f'cfb_games_asof_week{week["week"]}.json', 'r') as f:
+                games_results = json.load(f)
+        else:
+            #fbs
+            response = requests.request("GET", gameurl, headers=headers)
+            games = json.loads(response.text)
+            games_results = build_list(week["week"],games, division)
 
-    division= 'fcs'
-    querystring = f'year={year}&week={week["week"]}&seasonType=regular&division={division}'
-    gameurl = f'{url}games?{querystring}'
-    print(gameurl)
-    response = requests.request("GET", gameurl, headers=headers)
-    games = json.loads(response.text)
-    games_results.append(build_list(games, division)[0])
-    with open(f'cfb_games_asof_week{week["week"]}.json', 'w+') as f:
-        json.dump(games_results, f, indent=4)
+            print("loading fcs games")
+            division= 'fcs'
+            querystring = f'year={year}&week={week["week"]}&seasonType=regular&division={division}'
+            gameurl = f'{url}games?{querystring}'
+            print(gameurl)
+
+            response = requests.request("GET", gameurl, headers=headers)
+            games = json.loads(response.text)
+            games_results.append(build_list(week["week"], games, division)[0])
+            print(f'creating cfb_games_asof_week{week["week"]}.json ')
+            with open(f'cfb_games_asof_week{week["week"]}.json', 'w+') as f:
+                json.dump(games_results, f, indent=4)
 
     return games_results
 

@@ -1,0 +1,100 @@
+[
+    {
+      "season": "2022",
+      "week": 1,
+      "seasonType": "regular",
+      "firstGameStart": "2022-08-27T16:00:00.000Z",
+      "lastGameStart": "2022-09-06T00:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 2,
+      "seasonType": "regular",
+      "firstGameStart": "2022-09-08T22:00:00.000Z",
+      "lastGameStart": "2022-09-11T03:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 3,
+      "seasonType": "regular",
+      "firstGameStart": "2022-09-15T23:30:00.000Z",
+      "lastGameStart": "2022-09-18T03:59:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 4,
+      "seasonType": "regular",
+      "firstGameStart": "2022-09-22T23:30:00.000Z",
+      "lastGameStart": "2022-09-25T02:30:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 5,
+      "seasonType": "regular",
+      "firstGameStart": "2022-09-30T00:00:00.000Z",
+      "lastGameStart": "2022-10-02T02:15:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 6,
+      "seasonType": "regular",
+      "firstGameStart": "2022-10-05T23:00:00.000Z",
+      "lastGameStart": "2022-10-09T16:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 7,
+      "seasonType": "regular",
+      "firstGameStart": "2022-10-12T23:30:00.000Z",
+      "lastGameStart": "2022-10-16T03:59:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 8,
+      "seasonType": "regular",
+      "firstGameStart": "2022-10-16T20:00:00.000Z",
+      "lastGameStart": "2022-10-23T03:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 9,
+      "seasonType": "regular",
+      "firstGameStart": "2022-10-27T23:00:00.000Z",
+      "lastGameStart": "2022-10-30T03:59:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 10,
+      "seasonType": "regular",
+      "firstGameStart": "2022-11-01T04:00:00.000Z",
+      "lastGameStart": "2022-11-06T02:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 11,
+      "seasonType": "regular",
+      "firstGameStart": "2022-11-08T05:00:00.000Z",
+      "lastGameStart": "2022-11-13T04:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 12,
+      "seasonType": "regular",
+      "firstGameStart": "2022-11-16T00:00:00.000Z",
+      "lastGameStart": "2022-11-20T04:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 13,
+      "seasonType": "regular",
+      "firstGameStart": "2022-11-23T00:00:00.000Z",
+      "lastGameStart": "2022-11-27T02:00:00.000Z"
+    },
+    {
+      "season": "2022",
+      "week": 15,
+      "seasonType": "regular",
+      "firstGameStart": "2022-12-10T20:00:00.000Z",
+      "lastGameStart": "2022-12-10T20:00:00.000Z"
+    }
+  ]
